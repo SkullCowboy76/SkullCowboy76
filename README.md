@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Brody
+- 👀 I’m interested in Movies, Military, Guns, Science, and Games.
+- 🌱 I’m currently learning Chemistry, Coding in Python.
+- 💞️ I’m looking to collaborate on a Source Engine Half-Life based indie game.
+- 📫 How to reach me ... shoot me an email at dachiefofhalo67@hotmail.com
